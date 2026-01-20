@@ -1,7 +1,7 @@
 site_name: Hybrid Cloud Technology
-site_url: https://jor-donegal.github.io/Networking26/
+site_url: https://jor-donegal.github.io/MSc-HCT26
 theme:
-  logo: images/Network.jpg
+  logo: images/DeathStar.jpg
   name: readthedocs
   palette:
     scheme: default
