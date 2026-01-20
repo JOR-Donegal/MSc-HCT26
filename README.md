@@ -1,5 +1,7 @@
 # HCT
-usLanding page for hybrid cloud material, to be taught as an on campi module. This has a slightly different content from the e-delivery module.
+usLanding page for hybrid cloud material, to be taught as an on campus module. This has a slightly different content from the e-delivery module.
+
+Colors for HCT will use 
 
 ## Status
 1. Site template built and tesed.
