@@ -1,7 +1,7 @@
 # HCT
 usLanding page for hybrid cloud material, to be taught as an on campus module. This has a slightly different content from the e-delivery module.
 
-Colors for HCT will use 
+Colors for HCT will use default blue
 
 ## Status
 1. Site template built and tesed.
@@ -9,7 +9,7 @@ Colors for HCT will use
 3. Introduction OK
 ### Week 1. 
 Fundamentals of cloud computing is 2024 version from GITBOOK
-CPU hardware needs work, GPU
+__CPU hardware needs work, GPU__
 ### Week 2
 Dig into the hardware is 2024 version from GITBOOK
 Processors is 2024 version from GITBOOK
