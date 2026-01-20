@@ -1,2 +1,8 @@
 # Week 8
-Another week, another hypervisor! This week we are going to cover another hypervisor which has become very popular as a replacement for VMWare. Proxmox is based on Linux and we can cover some useful technology on a very modest host running under VMWare workstation. Some of the technology I introduce here (ZFS, Ceph) is very significant. 
+Containers revolutionized software development by providing a lightweight, efficient, and portable solution for packaging applications and their dependencies, running under a single operating system kernel. They are thus more lightweight than Virtual Machines (VMs). VMs can also provide isolated, independent application environments, but they have considerable overhead compared to containers. This week we will examine some continer theory and practice, using Docker.
+
+# Study
+1. Docker
+
+# Practical Work
+1. Docker

@@ -1,4 +1,8 @@
 # Week 5
-The most common Authentication, Authorization and Accounting (AAA) infrastructure we find in modern enterprise and data centres is Microsoft's Active Directory (AD). It's useful for centralizing information in an SME, but it's essential for any infrastructure that needs to scale. Once the site goes beyond a trivial size, its security information becomes unmanageable unless we centralize it. This week we are going to work on some of the theory and terminology behind having a local AD infrastructure.
+Another week, another hypervisor! This week we are going to cover another hypervisor which has become very popular as a replacement for VMWare. Proxmox is based on Linux and we can cover some useful technology on a very modest host running under VMWare workstation. Some of the technology I introduce here (ZFS, Ceph) is very significant. 
 
-In our practical work, I want to look at an alternative to VMWare, Microsoft's Hyper-V. 
+# Study
+1. Proxmox
+
+# Practical Work
+1. Proxmox
