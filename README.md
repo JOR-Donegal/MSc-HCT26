@@ -1,10 +1,10 @@
 # HCT
 usLanding page for hybrid cloud material, to be taught as an on campus module. This has a slightly different content from the e-delivery module.
 
-Colors for HCT will use default blue
+Colors for HCT will use green
 
 ## Status
-1. Site template built and tesed.
+1. Site template built and tested.
 2. About OK
 3. Introduction OK
 ### Week 1. 
