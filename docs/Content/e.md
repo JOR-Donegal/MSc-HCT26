@@ -13,4 +13,4 @@ The practical exercise this week is also very light, but it is a required skill.
 Read through my notes on [Business Continuity and Disaster Recovery](https://jor-donegal.github.io/BCandDR26/), make sure you can define and distinguish between all the terms.
 
 ## Practical Work
-Using the doamin controller for electric-petrol (which you should have!) carry out [this exercise](https://jor-donegal.github.io/BackupExercise26/).
+Using the domain controller for electric-petrol (which you should have!) carry out [this exercise](https://jor-donegal.github.io/BackupExercise26/).
