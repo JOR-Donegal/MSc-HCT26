@@ -1,4 +1,4 @@
-# Week 6
+# Week 9
 In the early part of our courses, desktop virtualization is done using 
 
 - VMware Workstation
