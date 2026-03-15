@@ -27,3 +27,5 @@ Exercises are a backup of AD, new
 All work this week on implementing Hyper-V clusters, 2024 version from GITBOOK
 ### Week 7
 All work this week on implementing Proxmox, 2025 version from GITBOOK
+### Week 8
+All work this week on implementing ESXi, 2024 version from GITBOOK
