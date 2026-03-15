@@ -20,4 +20,10 @@ Notes on Hyper V is 2024 version from GITBOOK
 ### Week 4
 Theory material on Active Directory is 2024 version from GITBOOK
 AAA SME is new but not finished
-
+### Week 5
+BC & DR is new and good for SME but needs standards, updated tape
+Exercises are a backup of AD, new
+### Week 6
+All work this week on implementing Hyper-V clusters, 2024 version from GITBOOK
+### Week 7
+All work this week on implementing Proxmox, 2025 version from GITBOOK
