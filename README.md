@@ -29,3 +29,5 @@ All work this week on implementing Hyper-V clusters, 2024 version from GITBOOK
 All work this week on implementing Proxmox, 2025 version from GITBOOK
 ### Week 8
 All work this week on implementing ESXi, 2024 version from GITBOOK
+### Week 9
+All work this week on Container theory and implementing Docker, 2025 version from GITBOOK
