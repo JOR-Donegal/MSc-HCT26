@@ -1,5 +1,5 @@
 # HCT
-usLanding page for hybrid cloud material, to be taught as an on campus module. This has a slightly different content from the e-delivery module.
+Landing page for hybrid cloud material, to be taught as an on campus module. This has a slightly different content from the e-delivery module.
 
 Colors for HCT will use green
 
@@ -31,3 +31,7 @@ All work this week on implementing Proxmox, 2025 version from GITBOOK
 All work this week on implementing ESXi, 2024 version from GITBOOK
 ### Week 9
 All work this week on Container theory and implementing Docker, 2025 version from GITBOOK
+### Week 10
+All work this week on AWS, 2025 version from GITBOOK
+### Week 11
+Sort out notes on Kubes.
